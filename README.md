@@ -19,9 +19,9 @@ Um usuário quer visualizar a lista de produtos com possibilidade de filtrá-los
 -	Boas práticas;
 
 ### **Diferenciais**
-- Documentação dos endpoints
-- Uso de logs de aplicação
-- Utilizar cache
+- Documentação dos endpoints;
+- Uso de logs de aplicação;
+- Utilizar cache;
 
 ### **Considerações**
 -	:calendar: **Você tem 7 dias** corridos para entregar o teste;
