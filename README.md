@@ -30,6 +30,6 @@ Um usuário quer visualizar a lista de produtos com possibilidade de filtrá-los
 
 -	**Use o GitHub**, crie sua conta caso não tenha. Quando pronto, nos avise que iremos realizar o Code Review. Seus commits também serão analisados, pois é uma boa forma de entender seu fluxo de pensamento;
 
--	O projeto deve ser entregue com todas as instruções para ser instalado e executado dentro de um arquivo `project.md`;
+-	O projeto deve ser entregue com todas as instruções para ser instalado e executado dentro de um arquivo `README.md`;
 
 -	Mostre seus conhecimentos de Design Patterns. Aplique as melhores práticas que puder imaginar, elas serão importantes para determinar seu nível de expertise;
